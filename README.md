@@ -1,0 +1,2 @@
+# AlgorithmClass
+for practice 
